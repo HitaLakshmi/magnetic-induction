@@ -1,0 +1,6 @@
+var x=documentgetElementById(fluxStart);
+var y=documentgetElementById(fluxEnd);
+var z=documentgetElementById(time);
+var a=x-y;
+var result=a/z;
+console.log(result);
